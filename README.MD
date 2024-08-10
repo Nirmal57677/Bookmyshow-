@@ -51,7 +51,7 @@ For a full list of dependencies, please check the package.json files in both the
 Clone the repository
 
 ```
-git clone https://github.com/hari-mdu/BookMyShow-Backend-Project.git
+git clone https://github.com/Nirmal57677/Bookmyshow-.git
 ```
 
 open this project on you local IDE and in the terminal enter these commands
@@ -72,7 +72,7 @@ npm install
 
 npm start 
 ```
- This will start you frontend part in http://localhost:3000 and backend part running in http://localhost:8080 
+ This will start you frontend part in http://localhost:3000 and backend part running in http://localhost:8080
 
 
 
