@@ -72,7 +72,7 @@ npm install
 
 npm start 
 ```
- This will start you frontend part in http://localhost:3000 and backend part running in http://localhost:8080 
+ This will start you frontend part in http://localhost:3000 and backend part running in http://localhost:8080
 
 
 
