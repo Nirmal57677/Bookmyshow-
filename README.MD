@@ -51,7 +51,7 @@ For a full list of dependencies, please check the package.json files in both the
 Clone the repository
 
 ```
-git clone https://github.com/hari-mdu/BookMyShow-Backend-Project.git
+git clone 
 ```
 
 open this project on you local IDE and in the terminal enter these commands
